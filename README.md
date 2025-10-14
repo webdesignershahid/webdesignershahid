@@ -1,4 +1,4 @@
-# 👋 Hi There,
+# Hi There,
 I'm **Shahidul Islam**, a passionate Frontend Web Designer who loves crafting clean, modern, and responsive websites. <br>I enjoy turning complex problems into simple, beautiful, and intuitive designs that deliver great user experiences.😉
 
 ## 🚀 What I Do
@@ -7,11 +7,9 @@ I'm **Shahidul Islam**, a passionate Frontend Web Designer who loves crafting cl
 🧠 Create interactive UI components and animations <br>
 🔧 Work with frameworks & tools like React, Next.js, Vite, GSAP, and Swiper.js <br>
 🌍 Convert Figma/PSD to pixel-perfect Website <br>
-📫 How to reach me: <a href="https://www.freelancer.com/u/Sohidul72"> Contact With Me </a>
 
-
-## You can directly Hire Me for lifetime $0 Fee 
-[<img src="./src/freelancer-logo.svg" width="150" alt="Frontend Developer - Shahidul Islam" />](https://www.freelancer.com/hireme/Sohidul72) 
+## 📫 Have a Project Idea? Contact me on -
+[<img src="./src/freelancer-logo.svg" width="150"/>](https://www.freelancer.com/hireme/Sohidul72) 
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  <br>
