@@ -10,7 +10,7 @@ I'm **Shahidul Islam**, a passionate Frontend Web Designer who loves crafting cl
 📫 How to reach me: <a href="https://www.freelancer.com/u/Sohidul72"> Contact With Me </a>
 
 
-## You Can Directly Hire Me with Lifetime $0 Fee 
+## You can directly Hire Me for lifetime $0 Fee 
 [<img src="./src/freelancer-logo.svg" width="150" alt="Frontend Developer - Shahidul Islam" />](https://www.freelancer.com/hireme/Sohidul72) 
 
 ## 💻 Tech Stack:
@@ -21,8 +21,6 @@ I'm **Shahidul Islam**, a passionate Frontend Web Designer who loves crafting cl
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=webdesignershahid&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=webdesignershahid&theme=light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=webdesignershahid&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 > “Design is not just what it looks like and feels like. Design is how it works.”  
