@@ -8,7 +8,7 @@ I'm **Shahidul Islam**, a passionate Frontend Web Designer who loves crafting cl
 🔧 Work with frameworks & tools like React, Next.js, Vite, GSAP, and Swiper.js <br>
 🌍 Convert Figma/PSD to pixel-perfect Website <br>
 
-## 📫 Have a Project Idea? Contact me on -
+## 📫 Have a Project Idea? Hire me on -
 [<img src="./src/freelancer-logo.svg" width="150"/>](https://www.freelancer.com/hireme/Sohidul72) 
 
 ## 💻 Tech Stack:
