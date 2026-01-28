@@ -1,5 +1,5 @@
 # Hi There,
-I'm **Shahidul Islam**, a passionate Frontend Web Designer who loves crafting clean, modern, and responsive websites. <br>I enjoy turning complex problems into simple, beautiful, and intuitive designs that deliver great user experiences.😉
+I'm **Shahidul Islam**, a passionate Frontend Web Developer who loves crafting clean, modern, and responsive websites. <br>I enjoy turning complex problems into simple, beautiful, and intuitive designs that deliver great user experiences.😉
 
 ## 🚀 What I Do
 🎨 Design & develop responsive web interfaces <br>
